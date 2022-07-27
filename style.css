@@ -54,7 +54,6 @@ header button {
     border-radius: 0.5rem;
     cursor: pointer;
     font-weight: bold;
-    border:none;
 }
 
 @media (max-width:1074px) {
